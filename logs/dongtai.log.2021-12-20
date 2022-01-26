@@ -1,0 +1,189 @@
+2021-12-20 00:39:18.693 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 00:39:18.716 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 00:39:20.141 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 00:39:20.153 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 00:39:20.154 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 00:39:20.154 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 00:39:20.162 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 00:39:20.163 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 00:39:22.506 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 00:39:22.510 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2021-12-20 00:39:22.512 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 00:39:22.514 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 00:42:19.744 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 00:42:19.755 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 00:42:21.107 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 00:42:21.116 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 00:42:21.118 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 00:42:21.118 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 00:42:21.130 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 00:42:21.130 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 00:42:23.853 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 00:42:23.858 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 4 s
+2021-12-20 00:42:23.860 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 00:42:23.862 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 00:42:51.443 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 00:42:51.460 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 00:42:52.813 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 00:42:52.821 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 00:42:52.822 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 00:42:52.823 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 00:42:52.834 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 00:42:52.834 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 00:42:55.342 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 00:42:55.346 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2021-12-20 00:42:55.348 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 00:42:55.350 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 00:48:56.242 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 00:48:56.253 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 00:48:57.747 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 00:48:57.756 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 00:48:57.758 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 00:48:57.758 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 00:48:57.767 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 00:48:57.767 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 00:49:00.221 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 00:49:00.225 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2021-12-20 00:49:00.227 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 00:49:00.228 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:02:04.053 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:02:04.066 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:02:05.507 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:02:05.516 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:02:05.518 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:02:05.518 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:02:05.527 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:02:05.527 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:02:07.873 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:02:07.877 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2021-12-20 01:02:07.879 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:02:07.880 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:23:44.483 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:23:44.501 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:23:45.888 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:23:45.895 [cn.huoxian.dongtai.engine] INFO  WebServer [ name=Apache Tomcat/8.5.31, path=/Users/shengnanwu/IdeaProjects/dubbo-trace-example ]
+2021-12-20 01:23:45.896 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:23:45.897 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:23:45.898 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:23:45.901 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:23:45.901 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:23:49.013 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:23:49.017 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 4 s
+2021-12-20 01:23:49.020 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:23:49.021 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:24:12.960 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:24:12.970 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:24:14.407 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:24:14.415 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:24:14.417 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:24:14.417 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:24:14.427 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:24:14.428 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:24:16.917 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:24:16.921 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2021-12-20 01:24:16.923 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:24:16.925 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:25:18.107 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:25:18.123 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:25:19.574 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:25:19.579 [cn.huoxian.dongtai.engine] INFO  WebServer [ name=Apache Tomcat/8.5.31, path=/Users/shengnanwu/IdeaProjects/dubbo-trace-example ]
+2021-12-20 01:25:19.579 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:25:19.581 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:25:19.581 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:25:19.589 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:25:19.589 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:25:23.162 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:25:23.169 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 5 s
+2021-12-20 01:25:23.173 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:25:23.175 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:28:49.909 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:28:49.931 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:28:51.435 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:28:51.440 [cn.huoxian.dongtai.engine] INFO  WebServer [ name=Apache Tomcat/8.5.31, path=/Users/shengnanwu/IdeaProjects/dubbo-trace-example ]
+2021-12-20 01:28:51.440 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:28:51.442 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:28:51.442 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:28:51.445 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:28:51.445 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:28:54.544 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:28:54.552 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 4 s
+2021-12-20 01:28:54.554 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:28:54.556 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:35:19.432 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:35:19.444 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:35:20.828 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:35:20.836 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:35:20.838 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:35:20.838 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:35:20.848 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:35:20.849 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:35:23.090 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:35:23.094 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2021-12-20 01:35:23.097 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:35:23.099 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:35:32.502 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:35:32.523 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:35:33.932 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:35:33.936 [cn.huoxian.dongtai.engine] INFO  WebServer [ name=Apache Tomcat/8.5.31, path=/Users/shengnanwu/IdeaProjects/dubbo-trace-example ]
+2021-12-20 01:35:33.936 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:35:33.937 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:35:33.938 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:35:33.940 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:35:33.940 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:35:36.914 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:35:36.920 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 4 s
+2021-12-20 01:35:36.922 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:35:36.924 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:38:59.794 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:38:59.806 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:39:01.624 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:39:01.628 [cn.huoxian.dongtai.engine] INFO  WebServer [ name=Apache Tomcat/8.5.31, path=/Users/shengnanwu/IdeaProjects/dubbo-trace-example ]
+2021-12-20 01:39:01.629 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:39:01.630 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:39:01.630 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:39:01.638 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:39:01.638 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:39:05.076 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:39:05.080 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 5 s
+2021-12-20 01:39:05.082 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:39:05.084 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:40:18.027 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:40:18.037 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:40:19.427 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:40:19.433 [cn.huoxian.dongtai.engine] INFO  WebServer [ name=Apache Tomcat/8.5.31, path=/Users/shengnanwu/IdeaProjects/dubbo-trace-example ]
+2021-12-20 01:40:19.433 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:40:19.435 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:40:19.435 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:40:19.441 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:40:19.441 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:40:22.329 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:40:22.333 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 4 s
+2021-12-20 01:40:22.335 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:40:22.336 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:42:19.372 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:42:19.391 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:42:28.722 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:42:28.738 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:42:30.145 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:42:30.154 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:42:30.155 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:42:30.156 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:42:30.165 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:42:30.165 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:42:32.640 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:42:32.643 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2021-12-20 01:42:32.646 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:42:32.647 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-20 01:42:48.072 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-20 01:42:48.093 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-20 01:42:49.424 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-20 01:42:49.429 [cn.huoxian.dongtai.engine] INFO  WebServer [ name=Apache Tomcat/8.5.31, path=/Users/shengnanwu/IdeaProjects/dubbo-trace-example ]
+2021-12-20 01:42:49.429 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-20 01:42:49.431 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-20 01:42:49.431 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-20 01:42:49.437 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-20 01:42:49.438 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-20 01:42:52.651 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-20 01:42:52.655 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 4 s
+2021-12-20 01:42:52.657 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-20 01:42:52.659 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully

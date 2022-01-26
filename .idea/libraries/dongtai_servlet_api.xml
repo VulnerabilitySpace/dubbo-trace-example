@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dongtai-servlet-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dongtai-servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

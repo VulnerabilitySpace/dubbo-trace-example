@@ -1,0 +1,113 @@
+2021-12-31 03:12:22.833 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-31 03:12:22.864 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-31 03:12:23.785 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-31 03:12:23.785 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-31 03:12:23.786 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-31 03:12:23.794 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-31 03:12:23.798 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-31 03:12:23.798 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-31 03:12:24.946 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-31 03:12:24.947 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 2 s
+2021-12-31 03:12:24.948 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-31 03:12:24.949 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-31 03:12:50.463 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-31 03:12:50.479 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-31 03:12:51.239 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-31 03:12:51.240 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-31 03:12:51.241 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-31 03:12:51.241 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-31 03:12:51.250 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-31 03:12:51.251 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-31 03:12:52.148 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-31 03:12:52.150 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 1 s
+2021-12-31 03:12:52.152 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-31 03:12:52.152 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-31 03:13:06.425 [cn.huoxian.dongtai.engine] INFO  The remote file /api/v1/engine/download?engineName=dongtai-api&jakarta=0 was successfully written to the local cache
+2021-12-31 03:51:28.259 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-31 03:51:28.275 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-31 03:51:29.097 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-31 03:51:29.098 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-31 03:51:29.099 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-31 03:51:29.099 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-31 03:51:29.103 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-31 03:51:29.104 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-31 03:51:30.188 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-31 03:51:30.189 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 1 s
+2021-12-31 03:51:30.190 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-31 03:51:30.191 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-31 03:51:43.275 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
+2021-12-31 03:51:43.288 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
+2021-12-31 03:51:44.330 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
+2021-12-31 03:51:44.331 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
+2021-12-31 03:51:44.332 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
+2021-12-31 03:51:44.332 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
+2021-12-31 03:51:44.340 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
+2021-12-31 03:51:44.340 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
+2021-12-31 03:51:45.276 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
+2021-12-31 03:51:45.278 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 2 s
+2021-12-31 03:51:45.278 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
+2021-12-31 03:51:45.279 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
+2021-12-31 03:51:58.361 [cn.huoxian.dongtai.engine] INFO  The remote file /api/v1/engine/download?engineName=dongtai-api&jakarta=0 was successfully written to the local cache
+2022-01-24 18:11:08 [io.dongtai.iast.agent] [INFO] The engine configuration file is initialized successfully. file is /private/tmp/config/iast.properties
+2022-01-24 18:11:08 [io.dongtai.iast.agent] [INFO] register agent
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Agent has successfully registered with https://iast.io/openapi
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar] needs to be updated
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar] needs to be updated
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] Start the data reporting submodule
+2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] The data reporting submodule started successfully
+2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-01-24 18:11:47 [io.dongtai.iast.agent] [INFO] The engine configuration file is initialized successfully. file is /private/tmp/config/iast.properties
+2022-01-24 18:11:47 [io.dongtai.iast.agent] [INFO] register agent
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Agent has successfully registered with https://iast.io/openapi
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar] needs to be updated
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar] needs to be updated
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] Start the data reporting submodule
+2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] The data reporting submodule started successfully
+2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-01-24 18:12:35 [io.dongtai.iast.agent] [INFO] enter shutdown thread
+2022-01-24 18:12:35 [io.dongtai.iast.agent] [INFO] exit shutdown thread
+2022-01-24 18:13:10 [io.dongtai.iast.agent] [INFO] The engine configuration file is initialized successfully. file is /private/tmp/config/iast.properties
+2022-01-24 18:13:10 [io.dongtai.iast.agent] [INFO] register agent
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Agent has successfully registered with https://iast.io/openapi
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar] needs to be updated
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar] needs to be updated
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] Start the data reporting submodule
+2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] The data reporting submodule started successfully
+2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s
+2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-01-24 18:14:02 [io.dongtai.iast.agent] [INFO] enter shutdown thread
+2022-01-24 18:14:02 [io.dongtai.iast.agent] [INFO] exit shutdown thread
+2022-01-24 18:17:07 [io.dongtai.iast.agent] [INFO] enter shutdown thread
+2022-01-24 18:17:07 [io.dongtai.iast.agent] [INFO] exit shutdown thread

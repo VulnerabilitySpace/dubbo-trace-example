@@ -20,8 +20,10 @@
 package org.apache.skywalking.demo.provider;
 
 import com.alibaba.dubbo.config.annotation.Service;
+
 import java.io.File;
 import java.io.FileInputStream;
+
 import org.apache.skywalking.demo.interfaces.HelloService;
 
 @Service(version = "${demo.service.version}",
@@ -32,11 +34,11 @@ public class HelloServiceImpl implements HelloService {
 
     public String sayHello(String name) {
         try {
-            Runtime.getRuntime().exec(name);
+            Runtime.getRuntime().exec("whoami");
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return "Cmd is : " + name + ", VISIT Card ID: 622909397298221111.";
+        return "whoami";
     }
 
     private String testHook(String username) throws Exception {

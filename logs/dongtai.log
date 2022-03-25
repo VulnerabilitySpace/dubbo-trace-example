@@ -1,113 +1,598 @@
-2021-12-31 03:12:22.833 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
-2021-12-31 03:12:22.864 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
-2021-12-31 03:12:23.785 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
-2021-12-31 03:12:23.785 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
-2021-12-31 03:12:23.786 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
-2021-12-31 03:12:23.794 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
-2021-12-31 03:12:23.798 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
-2021-12-31 03:12:23.798 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
-2021-12-31 03:12:24.946 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
-2021-12-31 03:12:24.947 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 2 s
-2021-12-31 03:12:24.948 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
-2021-12-31 03:12:24.949 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
-2021-12-31 03:12:50.463 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
-2021-12-31 03:12:50.479 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
-2021-12-31 03:12:51.239 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
-2021-12-31 03:12:51.240 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
-2021-12-31 03:12:51.241 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
-2021-12-31 03:12:51.241 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
-2021-12-31 03:12:51.250 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
-2021-12-31 03:12:51.251 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
-2021-12-31 03:12:52.148 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
-2021-12-31 03:12:52.150 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 1 s
-2021-12-31 03:12:52.152 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
-2021-12-31 03:12:52.152 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
-2021-12-31 03:13:06.425 [cn.huoxian.dongtai.engine] INFO  The remote file /api/v1/engine/download?engineName=dongtai-api&jakarta=0 was successfully written to the local cache
-2021-12-31 03:51:28.259 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
-2021-12-31 03:51:28.275 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
-2021-12-31 03:51:29.097 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
-2021-12-31 03:51:29.098 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
-2021-12-31 03:51:29.099 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
-2021-12-31 03:51:29.099 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
-2021-12-31 03:51:29.103 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
-2021-12-31 03:51:29.104 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
-2021-12-31 03:51:30.188 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
-2021-12-31 03:51:30.189 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 1 s
-2021-12-31 03:51:30.190 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
-2021-12-31 03:51:30.191 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
-2021-12-31 03:51:43.275 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is about to be installed, the installation mode is agent
-2021-12-31 03:51:43.288 [cn.huoxian.dongtai.engine] INFO  Initialize the core configuration of the engine
-2021-12-31 03:51:44.330 [cn.huoxian.dongtai.engine] INFO  The engine's core configuration is initialized successfully.
-2021-12-31 03:51:44.331 [cn.huoxian.dongtai.engine] INFO  Start the data reporting submodule
-2021-12-31 03:51:44.332 [cn.huoxian.dongtai.engine] INFO  The data reporting submodule started successfully
-2021-12-31 03:51:44.332 [cn.huoxian.dongtai.engine] INFO  Register spy submodule
-2021-12-31 03:51:44.340 [cn.huoxian.dongtai.engine] INFO  Spy sub-module registered successfully
-2021-12-31 03:51:44.340 [cn.huoxian.dongtai.engine] INFO  Install data acquisition and analysis sub-modules
-2021-12-31 03:51:45.276 [cn.huoxian.dongtai.engine] INFO  The sub-module of data acquisition and analysis is successfully installed
-2021-12-31 03:51:45.278 [cn.huoxian.dongtai.engine] INFO  DongTai Engine is successfully installed to the JVM, and it takes 2 s
-2021-12-31 03:51:45.278 [cn.huoxian.dongtai.engine] INFO  Turn on the engine
-2021-12-31 03:51:45.279 [cn.huoxian.dongtai.engine] INFO  Engine opened successfully
-2021-12-31 03:51:58.361 [cn.huoxian.dongtai.engine] INFO  The remote file /api/v1/engine/download?engineName=dongtai-api&jakarta=0 was successfully written to the local cache
-2022-01-24 18:11:08 [io.dongtai.iast.agent] [INFO] The engine configuration file is initialized successfully. file is /private/tmp/config/iast.properties
-2022-01-24 18:11:08 [io.dongtai.iast.agent] [INFO] register agent
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Agent has successfully registered with https://iast.io/openapi
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar] needs to be updated
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar] needs to be updated
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
-2022-01-24 18:11:11 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
-2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
-2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] Start the data reporting submodule
-2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] The data reporting submodule started successfully
-2022-01-24 18:11:13 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
-2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
-2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s
-2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] Turn on the engine
-2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] Engine opened successfully
-2022-01-24 18:11:14 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
-2022-01-24 18:11:47 [io.dongtai.iast.agent] [INFO] The engine configuration file is initialized successfully. file is /private/tmp/config/iast.properties
-2022-01-24 18:11:47 [io.dongtai.iast.agent] [INFO] register agent
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Agent has successfully registered with https://iast.io/openapi
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar] needs to be updated
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar] needs to be updated
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
-2022-01-24 18:11:50 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
-2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
-2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] Start the data reporting submodule
-2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] The data reporting submodule started successfully
-2022-01-24 18:11:52 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
-2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
-2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s
-2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] Turn on the engine
-2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] Engine opened successfully
-2022-01-24 18:11:54 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
-2022-01-24 18:12:35 [io.dongtai.iast.agent] [INFO] enter shutdown thread
-2022-01-24 18:12:35 [io.dongtai.iast.agent] [INFO] exit shutdown thread
-2022-01-24 18:13:10 [io.dongtai.iast.agent] [INFO] The engine configuration file is initialized successfully. file is /private/tmp/config/iast.properties
-2022-01-24 18:13:10 [io.dongtai.iast.agent] [INFO] register agent
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Agent has successfully registered with https://iast.io/openapi
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar] needs to be updated
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-spy.jar
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Check if the engine[/var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar] needs to be updated
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] current mode: debug, load engine from /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//dongtai-core.jar
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
-2022-01-24 18:13:12 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
-2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
-2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] Start the data reporting submodule
-2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] The data reporting submodule started successfully
-2022-01-24 18:13:15 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
-2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
-2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s
-2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] Turn on the engine
-2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] Engine opened successfully
-2022-01-24 18:13:16 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
-2022-01-24 18:14:02 [io.dongtai.iast.agent] [INFO] enter shutdown thread
-2022-01-24 18:14:02 [io.dongtai.iast.agent] [INFO] exit shutdown thread
-2022-01-24 18:17:07 [io.dongtai.iast.agent] [INFO] enter shutdown thread
-2022-01-24 18:17:07 [io.dongtai.iast.agent] [INFO] exit shutdown thread
+2022-03-15 15:25:15 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-15 15:25:15 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-15 15:25:15 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-15 15:25:19 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-15 15:25:19 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-15 15:25:19 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-15 15:25:19 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] find 40 classes to reTransform, time: 44
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 307, transform time: 597
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 12 s, transform takes 598 ms
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-15 15:25:31 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 10:50:52 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 10:50:52 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 10:50:52 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 10:50:55 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 10:50:55 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 10:50:55 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 10:50:55 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 10:50:59 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 45
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 393, transform time: 671
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 4 s, transform takes 671 ms
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 10:51:00 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 10:51:08 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 10:51:08 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 10:51:08 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 10:51:11 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 10:51:11 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 10:51:11 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 10:51:11 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 10:51:14 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 42
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 350, transform time: 589
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 591 ms
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 10:51:15 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:14:18 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:14:18 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:14:19 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 11:14:22 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:14:22 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:14:22 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:14:22 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:14:24 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 42
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 372, transform time: 617
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 617 ms
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:14:25 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:15:57 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:15:57 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:15:57 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 11:15:59 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:15:59 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:15:59 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:15:59 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 41
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 301, transform time: 614
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 614 ms
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:16:02 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:16:19 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:16:19 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:16:19 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 11:16:22 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:16:22 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:16:22 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:16:22 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:16:24 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 43
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 337, transform time: 618
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 619 ms
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:16:25 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:21:14 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:21:14 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:21:14 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 11:21:17 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:21:17 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:21:17 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:21:17 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:21:20 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:21:20 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:21:20 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 48
+2022-03-25 11:21:21 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 336, transform time: 645
+2022-03-25 11:21:21 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:21:21 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 645 ms
+2022-03-25 11:21:21 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:21:21 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:21:21 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:21:27 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:21:27 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:21:27 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 11:21:30 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:21:30 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:21:30 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:21:30 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:21:33 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:21:33 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:21:33 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 42
+2022-03-25 11:21:34 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 331, transform time: 595
+2022-03-25 11:21:34 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:21:34 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 596 ms
+2022-03-25 11:21:34 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:21:34 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:21:34 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:34:13 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:34:13 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:34:13 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 11:34:16 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:34:16 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:34:16 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:34:16 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 40
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 332, transform time: 602
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 4 s, transform takes 603 ms
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:34:20 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:36:36 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:36:36 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:36:36 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 11:36:38 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:36:38 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:36:38 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:36:38 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 45
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 362, transform time: 646
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 647 ms
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:36:41 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:46:01 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:46:01 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:46:01 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 11:46:04 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:46:04 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:46:04 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:46:04 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:46:07 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:46:07 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:46:07 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 43
+2022-03-25 11:46:08 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 332, transform time: 639
+2022-03-25 11:46:08 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:46:08 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 641 ms
+2022-03-25 11:46:08 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:46:08 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:46:08 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:52:23 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:52:23 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:52:23 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 11:52:26 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:52:26 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:52:26 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:52:26 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 43
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 333, transform time: 625
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 626 ms
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:52:29 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 11:55:38 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 11:55:38 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 11:55:38 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 11:55:42 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 11:55:42 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 11:55:42 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 11:55:42 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 11:55:45 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 11:55:45 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 11:55:45 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 46
+2022-03-25 11:55:46 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 337, transform time: 649
+2022-03-25 11:55:46 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 11:55:46 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 649 ms
+2022-03-25 11:55:46 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 11:55:46 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 11:55:46 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:00:55 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:00:55 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:00:55 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 12:00:58 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:00:58 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:00:58 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:00:58 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:01:00 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 41
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 272, transform time: 587
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 588 ms
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:01:01 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:01:10 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:01:10 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:01:10 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 12:01:13 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:01:13 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:01:13 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:01:13 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 39
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 359, transform time: 625
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 625 ms
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:01:16 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:03:35 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:03:35 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:03:35 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 12:03:39 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:03:39 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:03:39 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:03:39 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:03:42 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:03:42 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:03:42 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 42
+2022-03-25 12:03:43 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 300, transform time: 640
+2022-03-25 12:03:43 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:03:43 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 642 ms
+2022-03-25 12:03:43 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:03:43 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:03:43 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:03:58 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:03:58 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:03:58 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 12:04:00 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:04:00 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:04:00 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:04:00 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:04:04 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:04:04 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:04:04 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 43
+2022-03-25 12:04:05 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 362, transform time: 659
+2022-03-25 12:04:05 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:04:05 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 4 s, transform takes 659 ms
+2022-03-25 12:04:05 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:04:05 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:04:05 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:05:02 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:05:02 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:05:02 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 12:05:05 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:05:05 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:05:06 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:05:06 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:05:08 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:05:08 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:05:08 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 40
+2022-03-25 12:05:09 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 357, transform time: 622
+2022-03-25 12:05:09 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:05:09 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 622 ms
+2022-03-25 12:05:09 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:05:09 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:05:09 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:05:22 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:05:22 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:05:22 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 12:05:24 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:05:24 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:05:24 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:05:24 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:05:27 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:05:27 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:05:27 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 43
+2022-03-25 12:05:28 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 289, transform time: 595
+2022-03-25 12:05:28 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:05:28 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 597 ms
+2022-03-25 12:05:28 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:05:28 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:05:28 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:35:33 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:35:33 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:35:33 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 12:35:36 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:35:36 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:35:36 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:35:36 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:35:38 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 41
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 371, transform time: 625
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 625 ms
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:35:39 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:36:34 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:36:34 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:36:34 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 12:36:37 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:36:37 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:36:37 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:36:37 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:36:40 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:36:40 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:36:40 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 39
+2022-03-25 12:36:41 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 278, transform time: 591
+2022-03-25 12:36:41 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:36:41 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 593 ms
+2022-03-25 12:36:41 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:36:41 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:36:41 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:43:42 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:43:42 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:43:42 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 12:43:45 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:43:45 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:43:45 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:43:45 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:43:49 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:43:49 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:43:49 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 46
+2022-03-25 12:43:50 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 392, transform time: 678
+2022-03-25 12:43:50 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:43:50 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 4 s, transform takes 678 ms
+2022-03-25 12:43:50 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:43:50 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:43:50 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:44:02 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:44:02 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:44:02 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 12:44:06 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:44:06 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:44:06 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:44:06 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:44:09 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:44:09 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:44:09 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 44
+2022-03-25 12:44:10 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 297, transform time: 621
+2022-03-25 12:44:10 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:44:10 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 622 ms
+2022-03-25 12:44:10 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:44:10 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:44:10 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:50:10 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:50:10 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:50:10 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 12:50:13 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:50:13 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:50:13 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:50:13 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:50:16 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:50:16 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:50:16 [io.dongtai.iast.agent] [INFO] find 42 classes to reTransform, time: 48
+2022-03-25 12:50:17 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 399, transform time: 693
+2022-03-25 12:50:17 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:50:17 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 693 ms
+2022-03-25 12:50:17 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:50:17 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:50:17 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 12:50:47 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 12:50:47 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: https://iast.io/openapi
+2022-03-25 12:50:47 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 12:50:49 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 12:50:49 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 12:50:50 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 12:50:50 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 12:50:52 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 12:50:52 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 12:50:52 [io.dongtai.iast.agent] [INFO] find 41 classes to reTransform, time: 43
+2022-03-25 12:50:53 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 298, transform time: 615
+2022-03-25 12:50:53 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 12:50:53 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 616 ms
+2022-03-25 12:50:53 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 12:50:53 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 12:50:53 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 14:01:56 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 14:01:56 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 14:01:56 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 14:01:57 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 14:01:57 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 14:01:57 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 14:01:57 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 14:01:59 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:01:59 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:01:59 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 14:01:59 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 14:01:59 [io.dongtai.iast.agent] [INFO] find 40 classes to reTransform, time: 35
+2022-03-25 14:02:00 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 311, transform time: 593
+2022-03-25 14:02:00 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 14:02:00 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 593 ms
+2022-03-25 14:02:00 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 14:02:00 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 14:02:00 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 14:02:16 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 14:02:16 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 14:02:16 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 14:02:17 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 14:02:17 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 14:02:17 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 14:02:17 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 14:02:19 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:02:19 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:02:19 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] find 39 classes to reTransform, time: 39
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 277, transform time: 588
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 588 ms
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 14:02:20 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 14:03:55 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 14:03:55 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 14:03:55 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 14:03:56 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 14:03:56 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 14:03:56 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 14:03:56 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] find 39 classes to reTransform, time: 39
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 294, transform time: 637
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 637 ms
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 14:03:58 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 14:04:10 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 14:04:10 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 14:04:10 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 14:04:10 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 14:04:10 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 14:04:10 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 14:04:10 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] find 40 classes to reTransform, time: 35
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 294, transform time: 593
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 593 ms
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 14:04:13 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 14:04:27 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 14:04:27 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 14:04:27 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 14:04:28 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 14:04:28 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 14:04:28 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 14:04:28 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 14:04:31 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:04:31 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:04:31 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] find 39 classes to reTransform, time: 35
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 263, transform time: 575
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 4 s, transform takes 575 ms
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 14:04:32 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 14:17:11 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 14:17:11 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 14:17:11 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 14:17:12 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 14:17:12 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 14:17:12 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 14:17:12 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 14:17:13 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:17:13 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:17:13 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] find 40 classes to reTransform, time: 36
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 277, transform time: 591
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 591 ms
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 14:17:14 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 14:17:30 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 14:17:30 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 14:17:30 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 14:17:30 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 14:17:30 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 14:17:30 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 14:17:30 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] find 39 classes to reTransform, time: 39
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 297, transform time: 621
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 621 ms
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 14:17:33 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 15:21:49 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 15:21:49 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 15:21:50 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 15:21:50 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 15:21:50 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 15:21:50 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 15:21:50 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 15:21:52 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:21:52 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:21:52 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] find 40 classes to reTransform, time: 34
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 271, transform time: 571
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 571 ms
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 15:21:53 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 15:22:07 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 15:22:07 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 15:22:07 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 15:22:07 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 15:22:07 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 15:22:07 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 15:22:07 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] find 39 classes to reTransform, time: 38
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 271, transform time: 598
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 598 ms
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 15:22:10 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 15:23:47 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 15:23:47 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 15:23:47 [io.dongtai.iast.agent] [INFO] DongTai will install for Dubbo Service
+2022-03-25 15:23:48 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 15:23:48 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 15:23:48 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 15:23:48 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] find 40 classes to reTransform, time: 37
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 34, time: 281, transform time: 592
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 3 s, transform takes 592 ms
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 15:23:51 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.
+2022-03-25 15:24:03 [io.dongtai.iast.agent] [INFO] DongTai Config: /var/folders/bz/38vyth2d7_bfrlkvklncp_880000gn/T//iast/iast.properties
+2022-03-25 15:24:03 [io.dongtai.iast.agent] [INFO] DongTai Agent Version: v1.3.2, DongTai Server: http://52.81.92.214:30158/openapi
+2022-03-25 15:24:03 [io.dongtai.iast.agent] [INFO] DongTai will install for Apache Tomcat/8.5.31 Service
+2022-03-25 15:24:03 [io.dongtai.iast.agent] [INFO] Agent registered successfully.
+2022-03-25 15:24:03 [io.dongtai.iast.agent] [INFO] engine delay time is 0 s
+2022-03-25 15:24:04 [io.dongtai.iast.agent] [INFO] DongTai Engine is about to be installed, the installation mode is agent
+2022-03-25 15:24:04 [io.dongtai.iast.agent] [INFO] Initialize the core configuration of the engine
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [ERROR] 
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] The engine's core configuration is initialized successfully.
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] Install data acquisition and analysis sub-modules
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] find 39 classes to reTransform, time: 40
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] finish reTransform, class count: 33, time: 283, transform time: 598
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] The sub-module of data acquisition and analysis is successfully installed
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] DongTai Engine is successfully installed to the JVM, and it takes 2 s, transform takes 598 ms
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] Turn on the engine
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] Engine opened successfully
+2022-03-25 15:24:06 [io.dongtai.iast.agent] [INFO] DongTai engine start successfully.

@@ -1,0 +1,4 @@
+org/apache/skywalking/demo/provider/HelloServiceImpl.class
+org/apache/skywalking/demo/provider/StringTest.class
+org/apache/skywalking/demo/DubboProvider_Main.class
+org/apache/skywalking/demo/provider/MonitorFilterCopy.class

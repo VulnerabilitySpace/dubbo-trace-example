@@ -1,0 +1,5 @@
+[2022-03-02 11:28:48] This is codeql database create dubbo-trace-example --overwrite --language=java --command=mvn clean install
+[2022-03-02 11:28:48] Log file was started late.
+[2022-03-02 11:28:48] [PROGRESS] database create> Initializing database at /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-trace-example.
+[2022-03-02 11:28:48] Running plumbing command: codeql database init --overwrite --language=java --source-root=/Users/shengnanwu/IdeaProjects/dubbo-trace-example --allow-missing-source-root=false --allow-already-existing -- /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-trace-example
+[2022-03-02 11:28:48] [PROGRESS] database init> Counting lines of code in /Users/shengnanwu/IdeaProjects/dubbo-trace-example

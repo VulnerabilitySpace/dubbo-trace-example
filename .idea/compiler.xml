@@ -12,7 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dubbo-consumer" target="1.5" />
+      <module name="dubbo-consumer" target="8" />
       <module name="dubbo-interfaces" target="1.5" />
       <module name="dubbo-provider" target="1.5" />
       <module name="dubbo-trace-example" target="1.5" />

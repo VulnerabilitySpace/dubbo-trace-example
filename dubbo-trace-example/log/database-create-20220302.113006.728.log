@@ -1,0 +1,182 @@
+[2022-03-02 11:30:06] This is codeql database create dubbo-trace-example --overwrite --language=java --command=mvn clean package
+[2022-03-02 11:30:06] Log file was started late.
+[2022-03-02 11:30:06] [PROGRESS] database create> Initializing database at /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-trace-example.
+[2022-03-02 11:30:06] Running plumbing command: codeql database init --overwrite --language=java --source-root=/Users/shengnanwu/IdeaProjects/dubbo-trace-example --allow-missing-source-root=false --allow-already-existing -- /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-trace-example
+[2022-03-02 11:30:06] [PROGRESS] database init> Counting lines of code in /Users/shengnanwu/IdeaProjects/dubbo-trace-example
+[2022-03-02 11:30:06] [PROGRESS] database init> Resolving extractor java.
+[2022-03-02 11:30:06] Calling plumbing command: codeql resolve languages --format=json
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Scanning for [codeql-extractor.yml] from /Users/shengnanwu/workspace/CodeQL/
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Scanning for [codeql-extractor.yml] from /Users/shengnanwu/workspace/CodeQL/ql/.codeqlmanifest.json
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/go/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/python/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/java/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/html/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/xml/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/properties/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/cpp/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/csv/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/csharp/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/javascript/codeql-extractor.yml.
+[2022-03-02 11:30:07] [DETAILS] resolve languages> Parsing /Users/shengnanwu/workspace/CodeQL/ruby/codeql-extractor.yml.
+[2022-03-02 11:30:07] Plumbing command codeql resolve languages completed:
+                      {
+                        "extractors" : {
+                          "go" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/go"
+                            }
+                          ],
+                          "python" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/python"
+                            }
+                          ],
+                          "java" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/java",
+                              "extractor_options" : {
+                                "exclude" : {
+                                  "title" : "A glob excluding files from analysis.",
+                                  "description" : "A glob indicating what files to exclude from the analysis.\n",
+                                  "type" : "string"
+                                }
+                              }
+                            }
+                          ],
+                          "html" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/html"
+                            }
+                          ],
+                          "xml" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/xml"
+                            }
+                          ],
+                          "properties" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/properties"
+                            }
+                          ],
+                          "cpp" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/cpp"
+                            }
+                          ],
+                          "csv" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/csv"
+                            }
+                          ],
+                          "csharp" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/csharp"
+                            }
+                          ],
+                          "javascript" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/javascript"
+                            }
+                          ],
+                          "ruby" : [
+                            {
+                              "extractor_root" : "/Users/shengnanwu/workspace/CodeQL/ruby"
+                            }
+                          ]
+                        }
+                      }
+[2022-03-02 11:30:07] [DETAILS] database init> Found candidate extractor root for java: /Users/shengnanwu/workspace/CodeQL/java.
+[2022-03-02 11:30:07] [PROGRESS] database init> Successfully loaded extractor Java (java) from /Users/shengnanwu/workspace/CodeQL/java.
+[2022-03-02 11:30:07] [PROGRESS] database init> Created skeleton CodeQL database at /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-trace-example. This in-progress database is ready to be populated by an extractor.
+[2022-03-02 11:30:07] Plumbing command codeql database init completed.
+[2022-03-02 11:30:07] [PROGRESS] database create> Running build command: [mvn, clean, package]
+[2022-03-02 11:30:07] Running plumbing command: codeql database trace-command --working-dir=/Users/shengnanwu/IdeaProjects/dubbo-trace-example --index-traceless-dbs --no-db-cluster -- /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-trace-example mvn clean package
+[2022-03-02 11:30:07] Setting up tracing from specification at /Users/shengnanwu/workspace/CodeQL/java/tools/compiler-tracing.spec.
+[2022-03-02 11:30:07] Picked up extra JVM args: '-javaagent:/Users/shengnanwu/workspace/CodeQL/java/tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:/Users/shengnanwu/workspace/CodeQL/java/tools/codeql-java-agent.jar'
+[2022-03-02 11:30:07] [PROGRESS] database trace-command> Running command in /Users/shengnanwu/IdeaProjects/dubbo-trace-example: [mvn, clean, package]
+[2022-03-02 11:30:11] [build-stdout] [INFO] Scanning for projects...
+[2022-03-02 11:30:11] [build-stdout] [WARNING] 
+[2022-03-02 11:30:11] [build-stdout] [WARNING] Some problems were encountered while building the effective model for org.apache.skywalking:dubbo-provider:jar:1.0-SNAPSHOT
+[2022-03-02 11:30:11] [build-stdout] [WARNING] 'build.plugins.plugin.version' for org.springframework.boot:spring-boot-maven-plugin is missing. @ org.apache.skywalking:dubbo-provider:[unknown-version], /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-provider/pom.xml, line 36, column 21
+[2022-03-02 11:30:11] [build-stdout] [WARNING] 
+[2022-03-02 11:30:11] [build-stdout] [WARNING] Some problems were encountered while building the effective model for org.apache.skywalking:dubbo-consumer:jar:1.0-SNAPSHOT
+[2022-03-02 11:30:11] [build-stdout] [WARNING] 'build.plugins.plugin.version' for org.springframework.boot:spring-boot-maven-plugin is missing. @ org.apache.skywalking:dubbo-consumer:[unknown-version], /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-consumer/pom.xml, line 35, column 21
+[2022-03-02 11:30:11] [build-stdout] [WARNING] 
+[2022-03-02 11:30:11] [build-stdout] [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[2022-03-02 11:30:11] [build-stdout] [WARNING] 
+[2022-03-02 11:30:11] [build-stdout] [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[2022-03-02 11:30:11] [build-stdout] [WARNING] 
+[2022-03-02 11:30:11] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:11] [build-stdout] [INFO] Reactor Build Order:
+[2022-03-02 11:30:11] [build-stdout] [INFO] 
+[2022-03-02 11:30:11] [build-stdout] [INFO] tracing-dubbo-example
+[2022-03-02 11:30:11] [build-stdout] [INFO] dubbo-interfaces
+[2022-03-02 11:30:11] [build-stdout] [INFO] dubbo-provider
+[2022-03-02 11:30:11] [build-stdout] [INFO] dubbo-consumer
+[2022-03-02 11:30:11] [build-stdout] [INFO]                                                                         
+[2022-03-02 11:30:11] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:11] [build-stdout] [INFO] Building tracing-dubbo-example 1.0-SNAPSHOT
+[2022-03-02 11:30:11] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:11] [build-stdout] [INFO] 
+[2022-03-02 11:30:11] [build-stdout] [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ tracing-dubbo-example ---
+[2022-03-02 11:30:11] [build-stdout] [INFO]                                                                         
+[2022-03-02 11:30:11] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:11] [build-stdout] [INFO] Building dubbo-interfaces 1.0-SNAPSHOT
+[2022-03-02 11:30:11] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:11] [build-stdout] [INFO] 
+[2022-03-02 11:30:11] [build-stdout] [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ dubbo-interfaces ---
+[2022-03-02 11:30:11] [build-stdout] [INFO] Deleting /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-interfaces/target
+[2022-03-02 11:30:11] [build-stdout] [INFO] 
+[2022-03-02 11:30:11] [build-stdout] [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ dubbo-interfaces ---
+[2022-03-02 11:30:12] [build-stdout] [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[2022-03-02 11:30:12] [build-stdout] [INFO] skip non existing resourceDirectory /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-interfaces/src/main/resources
+[2022-03-02 11:30:12] [build-stdout] [INFO] 
+[2022-03-02 11:30:12] [build-stdout] [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ dubbo-interfaces ---
+[2022-03-02 11:30:12] [build-stdout] [INFO] Changes detected - recompiling the module!
+[2022-03-02 11:30:12] [build-stdout] [WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[2022-03-02 11:30:12] [build-stdout] [INFO] Compiling 1 source file to /Users/shengnanwu/IdeaProjects/dubbo-trace-example/dubbo-interfaces/target/classes
+[2022-03-02 11:30:12] [build-stdout] [INFO] -------------------------------------------------------------
+[2022-03-02 11:30:12] [build-stdout] [ERROR] COMPILATION ERROR : 
+[2022-03-02 11:30:12] [build-stdout] [INFO] -------------------------------------------------------------
+[2022-03-02 11:30:12] [build-stdout] [ERROR] 不再支持源选项 5。请使用 7 或更高版本。
+[2022-03-02 11:30:12] [build-stdout] [ERROR] 不再支持目标选项 5。请使用 7 或更高版本。
+[2022-03-02 11:30:12] [build-stdout] [INFO] 2 errors 
+[2022-03-02 11:30:12] [build-stdout] [INFO] -------------------------------------------------------------
+[2022-03-02 11:30:12] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:12] [build-stdout] [INFO] Reactor Summary:
+[2022-03-02 11:30:12] [build-stdout] [INFO] 
+[2022-03-02 11:30:12] [build-stdout] [INFO] tracing-dubbo-example .............................. SUCCESS [  0.085 s]
+[2022-03-02 11:30:12] [build-stdout] [INFO] dubbo-interfaces ................................... FAILURE [  0.668 s]
+[2022-03-02 11:30:12] [build-stdout] [INFO] dubbo-provider ..................................... SKIPPED
+[2022-03-02 11:30:12] [build-stdout] [INFO] dubbo-consumer ..................................... SKIPPED
+[2022-03-02 11:30:12] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:12] [build-stdout] [INFO] BUILD FAILURE
+[2022-03-02 11:30:12] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:12] [build-stdout] [INFO] Total time: 1.112 s
+[2022-03-02 11:30:12] [build-stdout] [INFO] Finished at: 2022-03-02T11:30:12+08:00
+[2022-03-02 11:30:12] [build-stdout] [INFO] Final Memory: 17M/67M
+[2022-03-02 11:30:12] [build-stdout] [INFO] ------------------------------------------------------------------------
+[2022-03-02 11:30:12] [build-stdout] [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project dubbo-interfaces: Compilation failure: Compilation failure:
+[2022-03-02 11:30:12] [build-stdout] [ERROR] 不再支持源选项 5。请使用 7 或更高版本。
+[2022-03-02 11:30:12] [build-stdout] [ERROR] 不再支持目标选项 5。请使用 7 或更高版本。
+[2022-03-02 11:30:12] [build-stdout] [ERROR] -> [Help 1]
+[2022-03-02 11:30:12] [build-stdout] [ERROR] 
+[2022-03-02 11:30:12] [build-stdout] [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[2022-03-02 11:30:12] [build-stdout] [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[2022-03-02 11:30:12] [build-stdout] [ERROR] 
+[2022-03-02 11:30:12] [build-stdout] [ERROR] For more information about the errors and possible solutions, please read the following articles:
+[2022-03-02 11:30:12] [build-stdout] [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[2022-03-02 11:30:12] [build-stdout] [ERROR] 
+[2022-03-02 11:30:12] [build-stdout] [ERROR] After correcting the problems, you can resume the build with the command
+[2022-03-02 11:30:12] [build-stdout] [ERROR]   mvn <goals> -rf :dubbo-interfaces
+[2022-03-02 11:30:12] [ERROR] Spawned process exited abnormally (code 1; tried to run: [/Users/shengnanwu/workspace/CodeQL/tools/osx64/preload_tracer, mvn, clean, package])
+[2022-03-02 11:30:12] Exception caught at top level: Exit status 1 from command: [mvn, clean, package]
+                      com.semmle.cli2.database.DatabaseProcessCommandCommon.executeSubcommand(DatabaseProcessCommandCommon.java:220)
+                      com.semmle.cli2.database.TraceCommandCommand.executeSubcommand(TraceCommandCommand.java:86)
+                      com.semmle.cli2.picocli.PlumbingRunner.run(PlumbingRunner.java:110)
+                      com.semmle.cli2.picocli.SubcommandCommon.runPlumbingInProcess(SubcommandCommon.java:162)
+                      com.semmle.cli2.database.CreateCommand.executeSubcommand(CreateCommand.java:151)
+                      com.semmle.cli2.picocli.SubcommandCommon.call(SubcommandCommon.java:500)
+                      com.semmle.cli2.picocli.SubcommandMaker.runMain(SubcommandMaker.java:205)
+                      com.semmle.cli2.picocli.SubcommandMaker.runMain(SubcommandMaker.java:214)
+                      com.semmle.cli2.CodeQL.main(CodeQL.java:98)

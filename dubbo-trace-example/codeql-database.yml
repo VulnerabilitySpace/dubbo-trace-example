@@ -1,0 +1,35 @@
+---
+sourceLocationPrefix: "/Users/shengnanwu/IdeaProjects/dubbo-trace-example"
+baselineLinesOfCode: 453
+unicodeNewlines: false
+columnKind: "utf16"
+primaryLanguage: "java"
+inProgress:
+  primaryLanguage: "java"
+  installedExtractors:
+    go:
+    - "file:///Users/shengnanwu/workspace/CodeQL/go/"
+    python:
+    - "file:///Users/shengnanwu/workspace/CodeQL/python/"
+    java:
+    - "file:///Users/shengnanwu/workspace/CodeQL/java/"
+    html:
+    - "file:///Users/shengnanwu/workspace/CodeQL/html/"
+    xml:
+    - "file:///Users/shengnanwu/workspace/CodeQL/xml/"
+    properties:
+    - "file:///Users/shengnanwu/workspace/CodeQL/properties/"
+    cpp:
+    - "file:///Users/shengnanwu/workspace/CodeQL/cpp/"
+    csv:
+    - "file:///Users/shengnanwu/workspace/CodeQL/csv/"
+    csharp:
+    - "file:///Users/shengnanwu/workspace/CodeQL/csharp/"
+    javascript:
+    - "file:///Users/shengnanwu/workspace/CodeQL/javascript/"
+    ruby:
+    - "file:///Users/shengnanwu/workspace/CodeQL/ruby/"
+creationMetadata:
+  sha: "8800b282b2a822f72acee0c20edf77648a18812c"
+  cliVersion: "2.8.1"
+  creationTime: "2022-03-02T03:50:34.844724Z"
